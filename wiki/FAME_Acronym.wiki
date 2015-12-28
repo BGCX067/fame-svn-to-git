@@ -1,0 +1,17 @@
+#Fame acronym
+
+= Requirement =
+  * Must contains *Fast*
+  * Must contains *Message* or *Missive*
+  * Must be *FAME*, why ? because 42 ;-)
+
+= Many solution, to choose =
+
+  * *F* ast _and_ *A* daptable *ME* ssag(e|ing).
+  * *F* ast _and_ *A* daptable *M* essag(e|ing) *E* xchange.
+  * *FA* ast *ME* essag(e|ing).
+  * *F* ast _and_ *A* daptable *M* essag(e|ing).
+
+= Alternate solution =
+ 
+  * FFAME ? (Fast and Flexible ...)

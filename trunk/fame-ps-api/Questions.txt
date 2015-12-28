@@ -1,0 +1,8 @@
+Reply on Producer?
+
+Type = Topic/Queue
+Protocol = fame-protocol
+Transport = TCP, UDP, Memory 
+Serialization = Google Protocol, Fame, MessagePack
+
+ 
